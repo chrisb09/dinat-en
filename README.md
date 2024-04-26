@@ -17,3 +17,9 @@ I'd also recommend adding
 \renewcommand{\cite}[1]{[\oldcite{#1}]}
 ```
 to your preamble.
+
+The final result can look something like this:
+
+![Screenshot of \cite](Screenshot_20240426_145804.png "\cite")
+
+![Screenshot of bibliography](Screenshot_20240426_145824.png "bibliography")
